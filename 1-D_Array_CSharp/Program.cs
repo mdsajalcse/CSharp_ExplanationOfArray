@@ -20,17 +20,15 @@ int[] intArray = new int[]
     8, 9, 3, 4, 5, 6, 7
 };
 
+Array.Sort(intArray);
 for (int i = 0; i < intArray.Length; i++)
 {
     Console.WriteLine(names[i]);
     Console.WriteLine("======");
     Console.WriteLine(intArray[i]);
 
-   
-
 
 }
-
 Console.WriteLine("Arrays Dimensional::");
 Console.WriteLine(intArray.Rank);
 Console.WriteLine("Arrays Length::");

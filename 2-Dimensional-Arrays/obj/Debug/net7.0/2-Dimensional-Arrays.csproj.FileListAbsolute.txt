@@ -1,0 +1,15 @@
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\bin\Debug\net7.0\2-Dimensional-Arrays.exe
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\bin\Debug\net7.0\2-Dimensional-Arrays.deps.json
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\bin\Debug\net7.0\2-Dimensional-Arrays.runtimeconfig.json
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\bin\Debug\net7.0\2-Dimensional-Arrays.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\bin\Debug\net7.0\2-Dimensional-Arrays.pdb
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\obj\Debug\net7.0\2-Dimensional-Arrays.csproj.AssemblyReference.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\obj\Debug\net7.0\2-Dimensional-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\obj\Debug\net7.0\2-Dimensional-Arrays.AssemblyInfoInputs.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\obj\Debug\net7.0\2-Dimensional-Arrays.AssemblyInfo.cs
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\obj\Debug\net7.0\2-Dimensional-Arrays.csproj.CoreCompileInputs.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\obj\Debug\net7.0\2-Dimensional-Arrays.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\obj\Debug\net7.0\refint\2-Dimensional-Arrays.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\obj\Debug\net7.0\2-Dimensional-Arrays.pdb
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\obj\Debug\net7.0\2-Dimensional-Arrays.genruntimeconfig.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\2-Dimensional-Arrays\obj\Debug\net7.0\ref\2-Dimensional-Arrays.dll
