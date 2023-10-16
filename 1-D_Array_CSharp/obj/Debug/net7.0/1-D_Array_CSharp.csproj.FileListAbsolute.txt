@@ -1,0 +1,15 @@
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\bin\Debug\net7.0\1-D_Array_CSharp.exe
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\bin\Debug\net7.0\1-D_Array_CSharp.deps.json
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\bin\Debug\net7.0\1-D_Array_CSharp.runtimeconfig.json
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\bin\Debug\net7.0\1-D_Array_CSharp.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\bin\Debug\net7.0\1-D_Array_CSharp.pdb
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\obj\Debug\net7.0\1-D_Array_CSharp.csproj.AssemblyReference.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\obj\Debug\net7.0\1-D_Array_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\obj\Debug\net7.0\1-D_Array_CSharp.AssemblyInfoInputs.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\obj\Debug\net7.0\1-D_Array_CSharp.AssemblyInfo.cs
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\obj\Debug\net7.0\1-D_Array_CSharp.csproj.CoreCompileInputs.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\obj\Debug\net7.0\1-D_Array_CSharp.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\obj\Debug\net7.0\refint\1-D_Array_CSharp.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\obj\Debug\net7.0\1-D_Array_CSharp.pdb
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\obj\Debug\net7.0\1-D_Array_CSharp.genruntimeconfig.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\1-D_Array_CSharp\obj\Debug\net7.0\ref\1-D_Array_CSharp.dll
