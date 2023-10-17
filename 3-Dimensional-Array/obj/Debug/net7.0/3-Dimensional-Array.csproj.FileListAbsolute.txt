@@ -1,0 +1,15 @@
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\bin\Debug\net7.0\3-Dimensional-Array.exe
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\bin\Debug\net7.0\3-Dimensional-Array.deps.json
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\bin\Debug\net7.0\3-Dimensional-Array.runtimeconfig.json
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\bin\Debug\net7.0\3-Dimensional-Array.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\bin\Debug\net7.0\3-Dimensional-Array.pdb
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\obj\Debug\net7.0\3-Dimensional-Array.csproj.AssemblyReference.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\obj\Debug\net7.0\3-Dimensional-Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\obj\Debug\net7.0\3-Dimensional-Array.AssemblyInfoInputs.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\obj\Debug\net7.0\3-Dimensional-Array.AssemblyInfo.cs
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\obj\Debug\net7.0\3-Dimensional-Array.csproj.CoreCompileInputs.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\obj\Debug\net7.0\3-Dimensional-Array.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\obj\Debug\net7.0\refint\3-Dimensional-Array.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\obj\Debug\net7.0\3-Dimensional-Array.pdb
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\obj\Debug\net7.0\3-Dimensional-Array.genruntimeconfig.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\3-Dimensional-Array\obj\Debug\net7.0\ref\3-Dimensional-Array.dll

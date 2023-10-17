@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplanationOfArray", "ExplanationOfArray\ExplanationOfArray.csproj", "{7623FA4F-CCA0-435E-B3FD-52A9BF6AF4C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExplanationOfArray", "ExplanationOfArray\ExplanationOfArray.csproj", "{7623FA4F-CCA0-435E-B3FD-52A9BF6AF4C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-D_Array_CSharp", "1-D_Array_CSharp\1-D_Array_CSharp.csproj", "{4C1D8912-1190-44F7-8AC1-FEEAC48434D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-D_Array_CSharp", "1-D_Array_CSharp\1-D_Array_CSharp.csproj", "{4C1D8912-1190-44F7-8AC1-FEEAC48434D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Dimensional-Arrays", "2-Dimensional-Arrays\2-Dimensional-Arrays.csproj", "{8E100E2A-6720-49DC-8E6F-8D5042A66C85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-Dimensional-Arrays", "2-Dimensional-Arrays\2-Dimensional-Arrays.csproj", "{8E100E2A-6720-49DC-8E6F-8D5042A66C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Dimensional-Array", "3-Dimensional-Array\3-Dimensional-Array.csproj", "{BFD63D05-A235-4043-9025-F8CB7A790F12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8E100E2A-6720-49DC-8E6F-8D5042A66C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E100E2A-6720-49DC-8E6F-8D5042A66C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E100E2A-6720-49DC-8E6F-8D5042A66C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD63D05-A235-4043-9025-F8CB7A790F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD63D05-A235-4043-9025-F8CB7A790F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD63D05-A235-4043-9025-F8CB7A790F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD63D05-A235-4043-9025-F8CB7A790F12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
