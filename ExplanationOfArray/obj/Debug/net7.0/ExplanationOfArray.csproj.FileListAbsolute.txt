@@ -1,0 +1,15 @@
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\bin\Debug\net7.0\ExplanationOfArray.exe
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\bin\Debug\net7.0\ExplanationOfArray.deps.json
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\bin\Debug\net7.0\ExplanationOfArray.runtimeconfig.json
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\bin\Debug\net7.0\ExplanationOfArray.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\bin\Debug\net7.0\ExplanationOfArray.pdb
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\obj\Debug\net7.0\ExplanationOfArray.csproj.AssemblyReference.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\obj\Debug\net7.0\ExplanationOfArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\obj\Debug\net7.0\ExplanationOfArray.AssemblyInfoInputs.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\obj\Debug\net7.0\ExplanationOfArray.AssemblyInfo.cs
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\obj\Debug\net7.0\ExplanationOfArray.csproj.CoreCompileInputs.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\obj\Debug\net7.0\ExplanationOfArray.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\obj\Debug\net7.0\refint\ExplanationOfArray.dll
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\obj\Debug\net7.0\ExplanationOfArray.pdb
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\obj\Debug\net7.0\ExplanationOfArray.genruntimeconfig.cache
+D:\CSharp_ExplanationOfArray\ExplanationOfArray\ExplanationOfArray\obj\Debug\net7.0\ref\ExplanationOfArray.dll
