@@ -1,0 +1,15 @@
+F:\CSharp_ExplanationOfArray\MixedArray\bin\Debug\net7.0\MixedArray.exe
+F:\CSharp_ExplanationOfArray\MixedArray\bin\Debug\net7.0\MixedArray.deps.json
+F:\CSharp_ExplanationOfArray\MixedArray\bin\Debug\net7.0\MixedArray.runtimeconfig.json
+F:\CSharp_ExplanationOfArray\MixedArray\bin\Debug\net7.0\MixedArray.dll
+F:\CSharp_ExplanationOfArray\MixedArray\bin\Debug\net7.0\MixedArray.pdb
+F:\CSharp_ExplanationOfArray\MixedArray\obj\Debug\net7.0\MixedArray.csproj.AssemblyReference.cache
+F:\CSharp_ExplanationOfArray\MixedArray\obj\Debug\net7.0\MixedArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp_ExplanationOfArray\MixedArray\obj\Debug\net7.0\MixedArray.AssemblyInfoInputs.cache
+F:\CSharp_ExplanationOfArray\MixedArray\obj\Debug\net7.0\MixedArray.AssemblyInfo.cs
+F:\CSharp_ExplanationOfArray\MixedArray\obj\Debug\net7.0\MixedArray.csproj.CoreCompileInputs.cache
+F:\CSharp_ExplanationOfArray\MixedArray\obj\Debug\net7.0\MixedArray.dll
+F:\CSharp_ExplanationOfArray\MixedArray\obj\Debug\net7.0\refint\MixedArray.dll
+F:\CSharp_ExplanationOfArray\MixedArray\obj\Debug\net7.0\MixedArray.pdb
+F:\CSharp_ExplanationOfArray\MixedArray\obj\Debug\net7.0\MixedArray.genruntimeconfig.cache
+F:\CSharp_ExplanationOfArray\MixedArray\obj\Debug\net7.0\ref\MixedArray.dll
